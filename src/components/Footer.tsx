@@ -35,8 +35,13 @@ const Footer = () => {
           </div>
         </div>
         
-        <div className="mt-8 pt-8 border-t border-border text-center text-muted-foreground text-sm">
-          <p>© {new Date().getFullYear()} Asas do Parecis. Todos os direitos reservados.</p>
+        <div className="mt-8 pt-8 border-t border-border text-center">
+          <p className="text-muted-foreground text-sm mb-2">
+            © {new Date().getFullYear()} Asas do Parecis. Todos os direitos reservados.
+          </p>
+          <p className="text-sm text-muted-foreground">
+            Desenvolvido por <span className="text-silver font-medium">Christian Izidoro</span>
+          </p>
         </div>
       </div>
     </footer>

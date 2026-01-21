@@ -1,5 +1,6 @@
 import { Instagram, MessageCircle, ChevronDown } from "lucide-react";
 import Logo from "./Logo";
+import paramotorHero from "@/assets/paramotor-hero.jpg";
 
 const HeroSection = () => {
   const whatsappNumber = "5565991917234";
@@ -17,10 +18,10 @@ const HeroSection = () => {
           loop
           playsInline
           className="w-full h-full object-cover"
-          poster="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1920&q=80"
+          poster={paramotorHero}
         >
           <source 
-            src="https://videos.pexels.com/video-files/3571264/3571264-uhd_2560_1440_30fps.mp4" 
+            src="https://videos.pexels.com/video-files/857251/857251-hd_1920_1080_25fps.mp4" 
             type="video/mp4" 
           />
         </video>
@@ -56,7 +57,10 @@ const HeroSection = () => {
 
       {/* Hero Content */}
       <div className="relative z-10 container mx-auto px-6 text-center">
-        <h1 className="section-title text-6xl md:text-8xl lg:text-9xl mb-6 opacity-0 animate-fade-up">
+        <p className="text-sm md:text-base uppercase tracking-[0.3em] text-foreground/70 mb-4 opacity-0 animate-fade-up">
+          Voo de Paramotor em Mato Grosso
+        </p>
+        <h1 className="section-title text-6xl md:text-8xl lg:text-9xl mb-6 opacity-0 animate-fade-up animate-delay-100">
           SINTA A LIBERDADE
         </h1>
         <p className="text-lg md:text-xl text-foreground/80 max-w-2xl mx-auto mb-10 opacity-0 animate-fade-up animate-delay-200 font-light">
