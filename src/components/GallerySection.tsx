@@ -12,11 +12,12 @@ const images = [
 
 const GallerySection = () => {
   return (
-    <section className="py-24 md:py-32 bg-secondary">
+  <section className="py-25 md:py-40 bg-slate-100">
+
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <p className="text-sm uppercase tracking-[0.3em] text-muted-foreground mb-4">Galeria</p>
-          <h2 className="section-title mb-6">MOMENTOS NO CÉU</h2>
+          <h2 className="section-title text-black mb-6">ASAS DO PARECIS</h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Cada voo é uma nova história. Veja alguns dos momentos incríveis 
             que nossos passageiros vivenciaram.

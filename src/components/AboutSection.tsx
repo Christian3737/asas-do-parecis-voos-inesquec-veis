@@ -1,7 +1,7 @@
 import { Award, Users, Compass } from "lucide-react";
 
 const stats = [
-  { icon: Award, value: "10+", label: "Anos de experiência" },
+  { icon: Award, value: "4+", label: "Anos de experiência" },
   { icon: Users, value: "500+", label: "Voos realizados" },
   { icon: Compass, value: "100%", label: "Segurança" },
 ];

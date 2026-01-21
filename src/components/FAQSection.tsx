@@ -24,7 +24,7 @@ const faqs = [
   },
   {
     question: "Posso levar meu celular/câmera?",
-    answer: "Sim! Recomendamos que leve para registrar os melhores momentos. Oferecemos suportes seguros para celular durante o voo.",
+    answer: "Sim, você pode levar seu próprio celular para registrar o voo, desde que esteja bem preso e sob sua responsabilidade. Não nos responsabilizamos por quedas, danos ou perdas do aparelho durante a atividade.\n\nAlém disso, nossa equipe também realiza filmagens do voo, garantindo que você tenha registros seguros e de qualidade dessa experiência única.",
   },
   {
     question: "Como devo me vestir?",
