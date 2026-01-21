@@ -58,7 +58,7 @@ const HeroSection = () => {
       {/* Hero Content */}
       <div className="relative z-10 container mx-auto px-6 text-center">
         <p className="text-sm md:text-base uppercase tracking-[0.3em] text-foreground/70 mb-4 opacity-0 animate-fade-up">
-          Voo de Paramotor em Mato Grosso
+          Voo de Paramotor em Campo Novo do Parecis
         </p>
         <h1 className="section-title text-6xl md:text-8xl lg:text-9xl mb-6 opacity-0 animate-fade-up animate-delay-100">
           SINTA A LIBERDADE
