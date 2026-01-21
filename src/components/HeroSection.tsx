@@ -3,7 +3,7 @@ import Logo from "./Logo";
 import paramotorHero from "@/assets/paramotor-hero.jpg";
 
 const HeroSection = () => {
-  const whatsappNumber = "5565991917234";
+  const whatsappNumber = "5565999191723";
   const whatsappMessage = encodeURIComponent("Olá! Gostaria de agendar um voo de paramotor.");
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
   const instagramLink = "https://instagram.com/asas_do_parecis";

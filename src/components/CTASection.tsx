@@ -1,7 +1,7 @@
 import { MessageCircle, MapPin, Phone } from "lucide-react";
 
 const CTASection = () => {
-  const whatsappNumber = "5565991917234";
+  const whatsappNumber = "5565999191723";
   const whatsappMessage = encodeURIComponent("Olá! Gostaria de agendar um voo de paramotor.");
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
 
@@ -28,7 +28,7 @@ const CTASection = () => {
           <div className="mt-16 flex flex-col md:flex-row items-center justify-center gap-8 text-muted-foreground">
             <div className="flex items-center gap-3">
               <Phone className="w-5 h-5" />
-              <span>(65) 9919-17234</span>
+              <span>(65) 99919-1723</span>
             </div>
             <div className="flex items-center gap-3">
               <MapPin className="w-5 h-5" />
