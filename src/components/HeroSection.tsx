@@ -1,6 +1,6 @@
 import { Instagram, MessageCircle, ChevronDown } from "lucide-react";
 import Logo from "./Logo";
-import paramotorHero from "@/assets/paramotor-hero.jpg";
+import paramotorHero from "@/assets/paramotor-hero.jpeg";
 
 const HeroSection = () => {
   const whatsappNumber = "5565999191723";
