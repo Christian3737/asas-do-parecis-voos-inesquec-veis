@@ -1,7 +1,7 @@
 import gallery1 from "@/assets/gallery-1.jpeg";
 import gallery2 from "@/assets/gallery-2.jpeg";
 import gallery3 from "@/assets/gallery-3.jpeg";
-import paramotorHero from "@/assets/paramotor-hero.jpeg";
+import paramotorHero from "@/assets/paramotor-hero.webp";
 
 const images = [
   { src: paramotorHero, alt: "Voo de paramotor ao pôr do sol sobre o cerrado" },
